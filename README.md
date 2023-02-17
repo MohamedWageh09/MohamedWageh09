@@ -1,16 +1,20 @@
-### Hi there 👋
+## Hi, i'm Mohamed!
 
-<!--
-**MohamedWageh09/MohamedWageh09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📚 Projects & Guides 📚
+In my portfolio, you can find my [projects](https://github.com/katiehuangx/Portfolio-Guide/blob/main/README.md)
 
-Here are some ideas to get you started:
+### My Skills
+- Data preparation, quality assurance, and analysis
+- Database design and modelling
+- Dashboard development and reporting
+- Exploratory data analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tools
+- Databases: SQL (PostgreSQL, MySQL, SQL Server, Google BigQuery), Excel
+- Python: NumPy, Pandas
+- Visualisation: Tableau, Matplotlib
+- Project Management: Trello
+
+### Connect with Me
+- [Linkedin](https://www.linkedin.com/in/katiehuangx/)
+- [Kaggle](https://www.kaggle.com/katiehuangx)
