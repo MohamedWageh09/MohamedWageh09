@@ -5,13 +5,13 @@ In my portfolio, you can find my [projects](https://github.com/MohamedWageh09?ta
 
 ### My Skills
 - Data validation, preparation, quality assurance and analysis
-- Database design and modelling
+- Database design and modeling
 - Data warehouse design
 - Dashboard development and reporting
 - Exploratory data analysis
 
 ### Tools
-- Databases: SQL (PostgreSQL, MySQL, SQL Server, Oracle)
+- Databases: PostgreSQL, MySQL, SQL Server and Oracle
 - Visualisation: Power Bi, Tableau, Excel
 - Python: NumPy, Pandas, Matplotlib, Seaborn
 - Project Management: Trello
