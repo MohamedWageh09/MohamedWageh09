@@ -1,20 +1,20 @@
 ## Hi, i'm Mohamed!
 
 ### 📚 Projects & Guides 📚
-In my portfolio, you can find my [projects](https://github.com/katiehuangx/Portfolio-Guide/blob/main/README.md)
+In my portfolio, you can find my [projects](https://github.com/MohamedWageh09?tab=repositories)
 
 ### My Skills
-- Data preparation, quality assurance, and analysis
+- Data validation, preparation, quality assurance and analysis
 - Database design and modelling
+- Data warehouse design
 - Dashboard development and reporting
 - Exploratory data analysis
 
 ### Tools
-- Databases: SQL (PostgreSQL, MySQL, SQL Server, Google BigQuery), Excel
-- Python: NumPy, Pandas
-- Visualisation: Tableau, Matplotlib
+- Databases: SQL (PostgreSQL, MySQL, SQL Server, Oracle)
+- Visualisation: Power Bi, Tableau, Excel
+- Python: NumPy, Pandas, Matplotlib, Seaborn
 - Project Management: Trello
 
-### Connect with Me
-- [Linkedin](https://www.linkedin.com/in/katiehuangx/)
-- [Kaggle](https://www.kaggle.com/katiehuangx)
+### Connect with me
+- [Linkedin](https://www.linkedin.com/in/m-wageh)
