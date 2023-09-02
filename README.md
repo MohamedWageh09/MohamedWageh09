@@ -1,7 +1,7 @@
-## Hi, i'm Mohamed!
+## Hi, Welcome to my github
 
 ### 📚 Projects & Guides 📚
-In my portfolio, you can find my [projects](https://github.com/MohamedWageh09?tab=repositories)
+Check my [repositories](https://github.com/MohamedWageh09?tab=repositories)
 
 ### My Skills
 - Writing database scripts using PL/SQL.
