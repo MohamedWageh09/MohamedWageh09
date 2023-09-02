@@ -4,16 +4,17 @@
 In my portfolio, you can find my [projects](https://github.com/MohamedWageh09?tab=repositories)
 
 ### My Skills
-- Data validation, preparation, quality assurance and analysis
-- Database design and modeling
-- Data warehouse design
-- Dashboard development and reporting
-- Exploratory data analysis
+- Writing database scripts using PL/SQL.
+- Databases (Oracle, MS SQL).
+- Creating ETL pipelines using Informatica PowerCenter & SSIS.
+- Data warehouse concepts & implementation.
+- Analyzing & visualizing data using Power BI & Tableau.
+- Modeling databases for operational and analytical purposes.
 
 ### Tools
-- Databases: PostgreSQL, MySQL, SQL Server and Oracle
+- Databases: PostgreSQL, SQL Server and Oracle
 - Visualisation: Power Bi, Tableau, Excel
-- Python: NumPy, Pandas, Matplotlib, Seaborn
+- Python: NumPy, Pandas, Matplotlib, Seaborn, Sklearn
 - Project Management: Trello
 
 ### Connect with me
