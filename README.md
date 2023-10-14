@@ -4,12 +4,16 @@
 Check my [repositories](https://github.com/MohamedWageh09?tab=repositories)
 
 ### My Skills
-- Writing database scripts using PL/SQL.
-- Databases (Oracle, MS SQL).
-- Creating ETL pipelines using Informatica PowerCenter & SSIS.
-- Data warehouse concepts & implementation.
-- Analyzing & visualizing data using Power BI & Tableau.
-- Modeling databases for operational and analytical purposes.
+- Strong knowledge in data warehousing concepts and implementation.
+- SQL and PL/SQL.
+- SQL Optimization.
+- Data Modeling.
+- Informatica Developer, PowerCenter and Analyst.
+- Database management.
+- Data profiling.
+- Developing ETL pipelines.
+- Visualization tools such as Power BI and Tableau.
+- Linux Fundamentals.
 
 ### Tools
 - Databases: PostgreSQL, SQL Server and Oracle
@@ -19,3 +23,4 @@ Check my [repositories](https://github.com/MohamedWageh09?tab=repositories)
 
 ### Connect with me
 - [Linkedin](https://www.linkedin.com/in/m-wageh)
+- [Mail](mohamedwgh09@gmail.com)
