@@ -30,4 +30,4 @@ Check my [projects](https://github.com/MohamedWageh09?tab=repositories)
 
 ### Connect with me
 - [Linkedin](https://www.linkedin.com/in/m-wageh)
-- [Mail](mohamedwgh09@gmail.com)
+- mohamedwgh09@gmail.com
