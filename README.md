@@ -19,8 +19,6 @@
 - Supervised Machine Learning
 - Big Data Concepts
 - Statistial Analysis
-- Big Data Concepts
-
 ### Interpersonal Skills
 - Initiative
 - Verbal and Written Communiation Skills
