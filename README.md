@@ -27,16 +27,16 @@
 
 <h3 align="left">Projects:</h3>
 
-- **[Toys Store Analysis]()**  
+- **[Toys Store Analysis](https://github.com/MohamedWageh09/Toys-Store-Analysis)**  
   - Designed and implemented a star schema model within a SQL Server database.
   - Created and executed ETL processes using SSIS to populate the DWH.
   - Connected Power BI with the data warehouse, created three dashboards for sales, stores, and sales representatives.
-- **[Bike Stores Sales Data Mart]()**  
+- **[Bike Stores Sales Data Mart](https://github.com/MohamedWageh09/BikeStores-Data-Mart-to-Dashboard-Development)**  
     - Designed a dimensional model based on the requirements then implemented that model using Informatica PowerCenter ensuring data consistency and facilitating efficient data retrieval for analytical purposes.
   - Applied concepts such as SCD Type 1, 2 and Incremental Load. •
   - Created a Power BI dashboard to showcase trends, best sellers, and popular brands using the created data mart. 
 
-- **[Telecom Transactions ETL]()**  
+- **[Telecom Transactions ETL](https://github.com/MohamedWageh09/Telecom-Transactions-ETL-using-SSIS)**  
    - Developed SSIS package for automating transactions data loading and archiving process for various flat files. •
   - Implemented error handling for different scenarios.
 
