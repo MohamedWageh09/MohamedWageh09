@@ -27,10 +27,17 @@
 
 <h3 align="left">Projects:</h3>
 
+- **[Real Estate Pipeline](https://github.com/MohamedWageh09/Real-Estate-Pipeline)**  
+  - Built a data pipeline to scrape, process, and store real estate listings from Property Finder and Bayut.
+  - Developed a web scraper and automated data loading.
+  - Used Apache Spark for processing and PostgreSQL for storage.
+  - Deployed using Docker and Docker Compose.
+  
 - **[Toys Store Analysis](https://github.com/MohamedWageh09/Toys-Store-Analysis)**  
   - Designed and implemented a star schema model within a SQL Server database.
   - Created and executed ETL processes using SSIS to populate the DWH.
   - Connected Power BI with the data warehouse, created three dashboards for sales, stores, and sales representatives.
+  - 
 - **[Bike Stores Sales Data Mart](https://github.com/MohamedWageh09/BikeStores-Data-Mart-to-Dashboard-Development)**  
     - Designed a dimensional model based on the requirements then implemented that model using Informatica PowerCenter ensuring data consistency and facilitating efficient data retrieval for analytical purposes.
   - Applied concepts such as SCD Type 1, 2 and Incremental Load. •
