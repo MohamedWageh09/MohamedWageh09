@@ -6,9 +6,9 @@
 
 - Currently I'm a Business Inteligence Analyst at Vodafone
 
-- my CV: [Here]()  
+- my CV: [Here](https://drive.google.com/file/d/1RDrRQzJqRV0uzIBE7mQIhwrq1ytDtPba/view?usp=sharing)  
 
-- My Portfolio: []()  
+- My Portfolio: [Enhancing it]()  
 
 ---
 
