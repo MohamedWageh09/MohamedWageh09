@@ -50,12 +50,12 @@
 
 <h3 align="left">Skills:</h3>
 
-- **Databases & Data Warehousing:** **PostgreSQL - SQL Server - Oracle - MongoDB - Data Modeling - DWH Concepts**  
-- **Informatica:** **Informatica PowerCenter - Informatica Developer - Informatica EDC - Informatica Axon**  
-- **Programming & Scripting:** **Python - SQL - PL/SQL - Bash and shell scripting**  
-- **Big Data:** **PySpark - Hadoop Ecosystem**  
-- **Tools & Operating Systems:** **SSIS - Pentaho - RAID - Jira - Linux**  
-- **Interpersonal:** **Analytical Thinking - Problem Solving - Initiative - Communication**  
+- **Databases & Data Warehousing:** PostgreSQL - SQL Server - Oracle - MongoDB - Data Modeling - DWH Concepts 
+- **Informatica:** Informatica PowerCenter - Informatica Developer - Informatica EDC - Informatica Axon
+- **Programming & Scripting:** Python - SQL - PL/SQL - Bash and shell scripting
+- **Big Data:** PySpark - Hadoop Ecosystem
+- **Tools & Operating Systems:** SSIS - Pentaho - RAID - Jira - Linux 
+- **Interpersonal:** Analytical Thinking - Problem Solving - Initiative - Communication 
 
 ---
 
