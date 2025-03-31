@@ -1,32 +1,70 @@
-## Hi, Welcome!
+<h1 align="center">Hi there! 👋</h1>
+<h3 align="center">I'm Mohamed Wageh, a Business Intelligence Analyst & Data Engineer</h3>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=MohamedWageh09&label=Profile%20views&color=grey&style=flat&base=1000" alt="MohamedWageh09" />
+</p>
 
-### 📚 Projects & Guides 📚
-- Check my [Projects](https://github.com/MohamedWageh09?tab=repositories)
-- Check my Power BI [Portfolio](https://www.novypro.com/profile_projects/mohamed-wageh)
+- Currently I'm a Business Inteligence Analyst at Vodafone
 
-### Technical Skills & Tools
-- Strong knowledge in data warehousing concepts and implementation
-- ETL
-- SQL and PL/SQL
-- SQL Optimization
-- Data Modeling
-- Informatica Developer, PowerCenter and Analyst
-- Database management
-- Data profiling
-- Power BI
-- Linux Fundamentals
-- SSIS, SSAS, SSRS
-- Supervised Machine Learning
-- Big Data Concepts
-- Statistial Analysis
-### Interpersonal Skills
-- Initiative
-- Verbal and Written Communiation Skills
-- Analytical Thinking
-- Teamwork
-- Problem Solving
-- Quick Learner
+- my CV: [Here]()  
 
-### Connect with me
-- [Linkedin](https://www.linkedin.com/in/m-wageh)
-- mohamedwgh09@gmail.com
+- My Portfolio: []()  
+
+---
+
+<h3 align="left">Experience:</h3>
+
+- **Vodafone** (01/2024 – Present) - **Business Intelligence Analyst**  
+  - Collaborating within cross-functional Agile teams to drive end-to-end BI projects/solutions.
+  - Developing, enhancing, and maintaining ETL pipelines to meet business needs while optimizing operations to ensure high data accuracy and consistency by developing       automated validation processes to reduce reporting time and variances.
+  - Transforming complex business requirements into intuitive BI reports and dashboards to enable data-driven decision-making across finance teams and increase efficiency across multiple business units.
+  - Supporting the Margin Assurance squad in investigating abnormal trends and patterns to enhance customer experience and mitigate revenue loss.
+- **Carina Wear** (11/2023 – 01/2024) - **Data Analyst**  
+  - Assessed performance across 30+ Clue branches using business metrics, delivering actionable insights.
+  - Created tailored dashboards for Senior Operations, Operations, and Area Managers to monitor and assess key performance areas.
+  - Modeled a data warehouse to consolidate data from Google Sheets and Excel, enabling a more centralized, efficient data management system.
+- **ITI** (02/2023 – 06/2023) - **Data Analytics / Business Intelligence Internship**  
+
+<h3 align="left">Projects:</h3>
+
+- **[Toys Store Analysis]()**  
+  - Designed and implemented a star schema model within a SQL Server database.
+  - Created and executed ETL processes using SSIS to populate the DWH.
+  - Connected Power BI with the data warehouse, created three dashboards for sales, stores, and sales representatives.
+- **[Bike Stores Sales Data Mart]()**  
+    - Designed a dimensional model based on the requirements then implemented that model using Informatica PowerCenter ensuring data consistency and facilitating efficient data retrieval for analytical purposes.
+  - Applied concepts such as SCD Type 1, 2 and Incremental Load. •
+  - Created a Power BI dashboard to showcase trends, best sellers, and popular brands using the created data mart. 
+
+- **[Telecom Transactions ETL]()**  
+   - Developed SSIS package for automating transactions data loading and archiving process for various flat files. •
+  - Implemented error handling for different scenarios.
+
+- **[Banking System and Term Deposit Analysis]()**  
+  - Designed and implemented a data warehouse model for the banking system to streamline data management and reporting.
+  - Conducted statistical tests and analysis.
+  - Developed a Machine Learning model to predict customer subscription to term deposit products.
+  - Created an interactive dashboard in Power BI to track and visualize term deposit subscription rates.
+
+---
+
+<h3 align="left">Skills:</h3>
+
+- **Databases & Data Warehousing:** **PostgreSQL - SQL Server - Oracle - MongoDB - Data Modeling - DWH Concepts**  
+- **Informatica:** **Informatica PowerCenter - Informatica Developer - Informatica EDC - Informatica Axon**  
+- **Programming & Scripting:** **Python - SQL - PL/SQL - Bash and shell scripting**  
+- **Big Data:** **PySpark - Hadoop Ecosystem**  
+- **Tools & Operating Systems:** **SSIS - Pentaho - RAID - Jira - Linux**  
+- **Interpersonal:** **Analytical Thinking - Problem Solving - Initiative - Communication**  
+
+---
+
+<h3 align="left">Certifications:</h3>
+
+- **Certified Data Management Professional (CDMP) - DAMA - 2025**  
+
+---
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/m-wageh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-wageh" height="30" width="40" /></a>
