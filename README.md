@@ -1,5 +1,5 @@
-<h1 align="center">Hi there! 👋</h1>
-<h3 align="center">I'm Mohamed Wageh, a Business Intelligence Analyst & Data Engineer</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=28&pause=2&color=4BF70C&vCenter=true&width=435&lines=Hi+there!;I'm+Mohamed+Wageh;a+BI+Analyst+%26+Data+Engineer)](https://git.io/typing-svg)
+
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=MohamedWageh09&label=Profile%20views&color=grey&style=flat&base=1000" alt="MohamedWageh09" />
 </p>
